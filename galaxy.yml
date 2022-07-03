@@ -1,0 +1,17 @@
+---
+namespace: proxmox
+name: pve
+version: 0.1.0
+readme: README.md
+authors:
+  - Inperpetuammemoriam <Inperpetuammemoriam@users.noreply.github.com>
+description: Ansible Collection for Proxmox VE
+license:
+  - GPL-3.0-or-later
+tags:
+  - 'proxmox'
+  - 'pve'
+repository: https://github.com/Inperpetuammemoriam/proxmox.pve
+documentation: https://github.com/Inperpetuammemoriam/proxmox.pve/wiki
+homepage: https://github.com/Inperpetuammemoriam/proxmox.pve
+issues: https://github.com/Inperpetuammemoriam/proxmox.pve/issues
